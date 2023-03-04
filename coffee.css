@@ -1,0 +1,21 @@
+body {
+    background-image:url(Aroma.jpg);
+    background-size: cover;
+  }
+  h1{
+    color: bisque
+  }
+  
+nav {
+  display: flex;
+  justify-content: space-between;
+  background-color: grey;
+  }
+  
+nav li{
+  margin: 10px 20px;
+  font-size: 20px;
+  font-weight: bold;
+  text-decoration: dotted;
+  color: brown;
+  }
